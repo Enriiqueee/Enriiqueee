@@ -2,11 +2,10 @@
 <h1 align="center">Hola, soy Enrique 👋</h1>
 </div>
 
-<h2>Me gusta programar y resolver codigo de gente</h2>
 [![GitHub followers](https://img.shields.io/github/followers/Enriiqueee?style=social)](https://github.com/Enriiqueee)
 
 ## Sobre mi
-
+<h2>Me gusta programar y resolver codigo de gente</h2>
 -  Github beginner 
 - 📲 Mobile developer
 - Aprendiendo Java/Kotlin
